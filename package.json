@@ -1,8 +1,21 @@
 {
-  "name": "marine",
-  "displayName": "marine",
+  "name": "marine-dark-theme",
+  "displayName": "Marine Dark",
   "description": "VSCode Marine color scheme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "ProDeSquare",
+  "icon": "icon.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ProDeSquare/Marine-VSCode-Theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "marine dark",
+    "marine theme",
+    "marine dark theme"
+],
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -12,9 +25,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Marine Theme",
+        "label": "Marine Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Marine Theme-color-theme.json"
+        "path": "./themes/Marine Dark Theme-color-theme.json"
       }
     ]
   }
