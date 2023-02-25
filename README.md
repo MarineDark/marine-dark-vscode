@@ -1,6 +1,18 @@
 # Marine Dark Theme
 
-Marine dark theme for [VSC](https://code.visualstudio.com/)
+**Marine Dark** theme for [VSC](https://code.visualstudio.com/)
+
+## Installation
+
+1. Installing from marketplace
+    - Search for `Marine Dark` in marketplace and install
+1. Installing through **Quick Open** panel
+    - While in VS Code hit `Ctrl+P`
+    - Copy/Paste the following command
+        ```
+        ext install ProDeSquare.marine-dark-theme
+        ```
+    - And hit enter
 
 ## Screenshots
 
