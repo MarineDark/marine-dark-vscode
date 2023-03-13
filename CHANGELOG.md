@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "marine" extension will be documented in this file.
+All notable changes to the "Marine Dark" extension will be documented in this file.
 
 ## [Unreleased]
 
@@ -21,3 +21,14 @@ All notable changes to the "marine" extension will be documented in this file.
 ### Fixed
 
 - Fixed the contrast of darkest green to enhance readability
+
+## [1.2.0] - 2023-03-14
+
+### Changed
+
+- HTML tag attributes have orange color instead of magenta
+- Error underline is now red instead of yellow
+
+### Fixed
+
+- Fixed theme name in `package.json`
