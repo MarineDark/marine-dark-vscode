@@ -1,5 +1,5 @@
 {
-	"name": "Marine Theme",
+	"name": "Marine Dark",
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
@@ -35,7 +35,7 @@
 		"editorBracketMatch.background": "#001F1E",
 		"editorBracketMatch.border": "#F8B0177f",
 		"editorCursor.foreground": "#F8B017",
-		"editorError.foreground": "#F5911B70",
+		"editorError.foreground": "#e71949dd",
 		"editorGroup.border": "#001F1E30",
 		"editorGroupHeader.tabsBackground": "#001F1E",
 		"editorGutter.addedBackground": "#E0A62C60",
@@ -435,7 +435,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#E334CF"
+				"foreground": "#f0aa16"
 			}
 		},
 		{
