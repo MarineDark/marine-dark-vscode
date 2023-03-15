@@ -32,3 +32,9 @@ All notable changes to the "Marine Dark" extension will be documented in this fi
 ### Fixed
 
 - Fixed theme name in `package.json`
+
+## [1.2.1] - 2023-03-16
+
+### Changed
+
+- Slightly brighter shade of reds
