@@ -38,3 +38,9 @@ All notable changes to the "Marine Dark" extension will be documented in this fi
 ### Changed
 
 - Slightly brighter shade of reds
+
+## [1.2.2] - 2023-05-18
+
+### Changed
+
+- Updated the repository link
