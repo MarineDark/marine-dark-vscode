@@ -44,3 +44,9 @@ All notable changes to the "Marine Dark" extension will be documented in this fi
 ### Changed
 
 - Updated the repository link
+
+## [1.2.3] - 2023-07-25
+
+### Changed
+
+- Updated active list item background color
