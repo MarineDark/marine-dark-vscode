@@ -50,3 +50,10 @@ All notable changes to the "Marine Dark" extension will be documented in this fi
 ### Changed
 
 - Updated active list item background color
+
+## [1.2.4] - 2023-07-31
+
+### Changed
+
+- Updated dropdown, checkbox and input's background for better visual experience
+- Updated debugbar background and foreground for better contrast
