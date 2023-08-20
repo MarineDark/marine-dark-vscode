@@ -545,6 +545,28 @@
 			}
 		},
 		{
+			"name": "Typescript",
+			"scope": [
+				"support.type.primitive.ts",
+				"support.type.builtin.ts",
+				"support.type.ts",
+			],
+			"settings": {
+				"foreground": "#137ed1"
+			}
+		},
+		{
+			"name": "Typescript React",
+			"scope": [
+				"support.type.primitive.tsx",
+				"support.type.builtin.tsx",
+				"support.type.tsx"
+			],
+			"settings": {
+				"foreground": "#00b6b6"
+			}
+		},
+		{
 			"name": "JSON Key - Level 0",
 			"scope": [
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
