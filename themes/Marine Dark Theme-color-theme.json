@@ -261,7 +261,6 @@
 				"keyword.control",
 				"constant.other.color",
 				"punctuation",
-				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
@@ -564,6 +563,16 @@
 			],
 			"settings": {
 				"foreground": "#00b6b6"
+			}
+		},
+		{
+			"name": "React JSX and TSX",
+			"scope": [
+				"meta.tag.tsx",
+				"meta.tag",
+			],
+			"settings": {
+				"foreground": "#CCEEED"
 			}
 		},
 		{
