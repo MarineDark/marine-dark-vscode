@@ -57,3 +57,17 @@ All notable changes to the "Marine Dark" extension will be documented in this fi
 
 - Updated dropdown, checkbox and input's background for better visual experience
 - Updated debugbar background and foreground for better contrast
+
+## [1.2.5] - 2023-08-30
+
+### Changed
+
+- Better JSX/TSX support
+- Pop up selection lighter colors
+- Updated borders for panel, statusbar, activity bar, & widgets
+- Updated breadcrumbs foreground color
+- Updated background colors for activity bar, minimap slider, & hover widget
+
+### Fixed
+
+- `editorIndentGuide.background` fixed deprecation warning
