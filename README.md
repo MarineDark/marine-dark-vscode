@@ -30,16 +30,16 @@ Download the `.vsix` file from the github or the visual studio code marketplace 
 
 #### JSX/TSX
 
-![JSX/TSX](https://raw.githubusercontent.com/ProDeSquare/Marine-VSCode-Theme/main/screenshots/marine-dark-tsx.png)
+![JSX/TSX](https://raw.githubusercontent.com/MarineDark/marine-dark-vscode/main/screenshots/marine-dark-tsx.png)
 
 #### Javascript/Typescript
 
-![Javascript/Typescript](https://raw.githubusercontent.com/ProDeSquare/Marine-VSCode-Theme/main/screenshots/marine-dark-ts.png)
+![Javascript/Typescript](https://raw.githubusercontent.com/MarineDark/marine-dark-vscode/main/screenshots/marine-dark-ts.png)
 
 #### Popups/Menus
 
-![Popups/Menus](https://raw.githubusercontent.com/ProDeSquare/Marine-VSCode-Theme/main/screenshots/marine-dark-ts-popups.png)
+![Popups/Menus](https://raw.githubusercontent.com/MarineDark/marine-dark-vscode/main/screenshots/marine-dark-ts-popups.png)
 
 #### PHP
 
-![PHP](https://raw.githubusercontent.com/ProDeSquare/Marine-VSCode-Theme/main/screenshots/marine-dark-php.png)
+![PHP](https://raw.githubusercontent.com/MarineDark/marine-dark-vscode/main/screenshots/marine-dark-php.png)
