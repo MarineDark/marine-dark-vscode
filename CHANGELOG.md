@@ -71,3 +71,15 @@ All notable changes to the "Marine Dark" extension will be documented in this fi
 ### Fixed
 
 - `editorIndentGuide.background` fixed deprecation warning
+
+## [1.2.6] - 2023-09-18
+
+### Changed
+
+- Terminal colorscheme matches the marine dark theme for terminals
+- `pickerGroup.border` matches the theme
+- Links now have brighter foreground color
+- Theme screenshots
+- Installation guide
+- Find match colors
+- Statusbar remote colors
