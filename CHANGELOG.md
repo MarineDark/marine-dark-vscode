@@ -83,3 +83,16 @@ All notable changes to the "Marine Dark" extension will be documented in this fi
 - Installation guide
 - Find match colors
 - Statusbar remote colors
+
+## [1.2.7] - 2026-04-15
+
+### Changed
+
+- Changed the background color from `#001F1E` to `0B1D1B` for better contrast
+- Changed `editorWhitespace.foreground` to suit the background
+- Modified scrollbar and input colors
+- Updated screenshots
+
+### Fixed
+
+- `editorOverviewRuler.findMatchForeground` fixed warning related to obscuring content
